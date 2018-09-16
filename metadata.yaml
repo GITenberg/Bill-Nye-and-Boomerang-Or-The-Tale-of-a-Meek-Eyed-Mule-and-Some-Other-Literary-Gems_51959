@@ -1,0 +1,31 @@
+_repo: Bill-Nye-and-Boomerang-Or-The-Tale-of-a-Meek-Eyed-Mule-and-Some-Other-Literary-Gems_51959
+_version: 0.0.1
+alternative_title: Bill Nye & Boomerang
+creator:
+  author:
+    agent_name: Nye, Bill
+    aliases:
+    - Nye, Edgar Wilson
+    - Nye, Edgar W. (Edgar Wilson)
+    birthdate: 1850
+    deathdate: 1896
+    gutenberg_agent_id: '2704'
+    url: http://www.gutenberg.org/2009/agents/2704
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Wilson_Nye
+description: ''
+gutenberg_issued: '2016-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51959'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American wit and humor'
+- !lcc 'PN'
+- GITenberg
+title: 'Bill Nye and Boomerang
+
+  Or, The Tale of a Meek-Eyed Mule, and Some Other Literary Gems'
+url: http://www.gutenberg.org/ebooks/51959
